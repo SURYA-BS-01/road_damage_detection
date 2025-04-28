@@ -5,3 +5,4 @@ cvzone
 flask
 torch
 werkzeug
+gunicorn
